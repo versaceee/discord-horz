@@ -1,2 +1,4 @@
-# discord-horz
-Here is a custom css to put your discord servers horizontally.
+this css requires betterdiscord
+
+
+$ù^*^$é" -- ^^
